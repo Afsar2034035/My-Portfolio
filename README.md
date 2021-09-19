@@ -30,3 +30,26 @@
       </div>
     </section>
 ```
+
+### Dream
+```html
+    <section class="dream-big">
+      <div class="half-width img2">
+        <img src="images/my-bg2.png" alt="Background" />
+      </div>
+      <div class="half-width dream-big-content">
+        <h1>Dream Big</h1>
+        <h3>Become World's no.1 Web Developer</h3>
+        <p>
+          Experienced with Programming language like C, C++, Java, JavaScript.
+          Identify and organize field trips to enhance Curriculum. I seek a
+          company that will help me contribute to its development while
+          concurrently aiding my personal growth.
+        </p>
+        <br />
+        <div class="button-area">
+          <a href="#" class="link-button">Download Resume</a>
+        </div>
+      </div>
+    </section>
+```
