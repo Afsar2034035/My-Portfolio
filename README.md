@@ -85,3 +85,10 @@
       </div>
     </section>
 ```
+
+### Footer
+```html
+    <footer>
+      <p>&copy; Afsar Hossain 2021 | All rights reserved.</p>
+    </footer>
+```
