@@ -53,3 +53,35 @@
       </div>
     </section>
 ```
+
+### Experience
+```html
+    <section class="experience-section">
+      <h1 class="exp-header">Experience</h1>
+      <div class="experience-container">
+        <div class="half-width left-experience">
+          <h1>Front End Developer</h1>
+          <h3 class="orange-color">2021-Present | Developer</h3>
+          <p>
+            I have good knowledge about Object Oriented Programming. I have
+            Completed Many types of Projects. Such as University Library
+            Management System, Movie Success Prediction System, Map Finder by
+            using General Knowledge, Doctors Schedule Management System,
+            Unicersity Result Processing System, Crime Prediction System, Job
+            Portal.
+          </p>
+        </div>
+
+        <div class="half-width right-experience">
+          <h1>App Developer</h1>
+          <h3 class="orange-color">2020-Persent | Developer</h3>
+          <p>
+            I have Learnt C, C++, Java Programming. I have Completed Many
+            Projects using Java Swing. Such as, Bangalir Sriti, Smart Periodic
+            Table Chemistry, Alphabet Learning, Winning Soccer Prediction,
+            Scientific Calculator, Newspaper Reader Prediction.
+          </p>
+        </div>
+      </div>
+    </section>
+```
