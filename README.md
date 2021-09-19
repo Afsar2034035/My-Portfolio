@@ -7,6 +7,7 @@
 </h2>
 
 ```html
+<!-- Section -->
 <section class="top-banner">
   <div class="half-width">
     <div>
@@ -38,7 +39,12 @@
 
 ### Dream
 
+<h2 align="center">
+  <img src="https://github.com/Afsar2034035/My-Portfolio/blob/main/images/dream.png" alt="Dream" width="100%">
+</h2>
+
 ```html
+<!-- Dream -->
 <section class="dream-big">
   <div class="half-width img2">
     <img src="images/my-bg2.png" alt="Background" />
@@ -62,7 +68,12 @@
 
 ### Experience
 
+<h2 align="center">
+  <img src="https://github.com/Afsar2034035/My-Portfolio/blob/main/images/experience.png" alt="Experience" width="100%">
+</h2>
+
 ```html
+<!-- Experience -->
 <section class="experience-section">
   <h1 class="exp-header">Experience</h1>
   <div class="experience-container">
@@ -94,7 +105,12 @@
 
 ### Footer
 
+<h2 align="center">
+  <img src="https://github.com/Afsar2034035/My-Portfolio/blob/main/images/footer.png" alt="Footer" width="100%">
+</h2>
+
 ```html
+<!-- Footer -->
 <footer>
   <p>&copy; Afsar Hossain 2021 | All rights reserved.</p>
 </footer>
